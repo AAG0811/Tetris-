@@ -59,5 +59,5 @@ int main() {
 
   printf("Converted values: %u\n", bConvShape(shapelist));
 
-  return 0;
+    return 0;
 }
